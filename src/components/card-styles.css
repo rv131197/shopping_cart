@@ -1,0 +1,31 @@
+.card-container{
+    display: flex;
+    flex-direction: column;
+    /* background-color: beige; */
+    /* border: 1px solid burlywood; */
+    border-radius: 5px;
+  }
+
+.button{
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.red{
+  background-color: red
+}
+
+.green{
+
+  background-color: #4CAF50; /* Green */
+}
+
+.yellow{
+  background-color: purple;
+  align-items: center;
+}
